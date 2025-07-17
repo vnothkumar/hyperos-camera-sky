@@ -2,7 +2,7 @@ name: 🚀 Build and Release Magisk Module
 
 on:
   push:
-    tags: [v*]
+    tags: [v0.1]
 
 jobs:
   build-release:
