@@ -1,0 +1,7 @@
+name=📷 Stock Hyperos camera for Redmi 12 5G (sky)
+description=Stock MIUI camera for Redmi 12 5G from the original Hyperos firmware, adapted for AOSP
+id=Hyperos-stock-sky
+version=v1
+versionCode=1
+author=versionCode
+updateJson=https://github.com/vnothkumar/hyperos-camera-sky/releases/latest/download/update.json
